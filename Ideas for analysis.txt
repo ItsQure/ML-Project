@@ -1,9 +1,0 @@
-heatmap, matplotlib visualization, and prediction analysis using Linear Analysis and K Nearest Neighbor (KNN).
-
-
-Rolling Mean (Moving Average) — to determine trend
-
-Expected return/ deviation  (Source #2)
-
-
-In summary, you don’t need to understand everything about the specific architecture of an LSTM cell; as a human, it shouldn’t be your job to understand it. Just keep in mind what the LSTM cell is meant to do: allow past information to be reinjected at a later time. (Deep Learning with Python)
